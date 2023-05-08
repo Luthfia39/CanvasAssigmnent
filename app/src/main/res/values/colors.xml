@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="outline">#661210</color>
+    <color name="shadow1">#fae3bf</color>
+    <color name="dough">#f1bc60</color>
+    <color name="dough_shadow">#daa851</color>
+    <color name="sauce">#c32728</color>
+    <color name="cheese">#f4c34b</color>
+    <color name="pepperoni">#a8302f</color>
+    <color name="basil">#6f963d</color>
+    <color name="pizza_shadow">#b3b3b3</color>
+</resources>
